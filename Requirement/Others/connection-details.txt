@@ -1,0 +1,28 @@
+AirTable API => https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Orders%20Summary?api_key=key9tcxlWbfKeps7M
+
+Edit Ppower Bi => https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Orders%20Summary?api_key=key9tcxlWbfKeps7M&view=All%20Orders%20List
+
+
+
+_______________________________
+
+
+
+
+
+https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Customers?api_key=key9tcxlWbfKeps7M
+
+
+
+https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Products?api_key=key9tcxlWbfKeps7M
+https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Products?api_key=key9tcxlWbfKeps7M&view=All%20Products
+
+
+
+https://automate.solar/v2/location/tv9G0SnoFmAeeu7f7uQA/opportunities/list
+
+
+https://api.airtable.com/v0/appKAJE1ZTvFZnxJ4/Orders%20Summary?api_key=key9tcxlWbfKeps7M
+
+
+https://automate.solar/v2/location/?api_key=tv9G0SnoFmAeeu7f7uQA

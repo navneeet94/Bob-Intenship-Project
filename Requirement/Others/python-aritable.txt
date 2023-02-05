@@ -1,0 +1,36 @@
+global offset
+offset = '0'
+records = []
+count= 0
+
+while True :
+    url = f"https://api.airtable.com/v0/{BASE_ID}/{TOKEN_NAME}?api_key={API_KEY}&view={VIEW_NAME}"
+    querystring = {"offset": offset}
+    print(f"{count+1}")
+    try :
+        response= requests.get(url, params=querystring)
+        response_Table = response.json()
+        records = list(response_Table['records'])
+        records.append(records)
+        print(records[0]['id'] , len(records))
+        print(records[0])
+    
+        try : 
+            offset_val = response_Table['offset']
+            print(type(offset_val),end=" => ")
+            print(offset_val)
+            offset = offset_val
+                
+            print("---------------------------------------------")
+            print()
+            print()
+            
+        except Exception as ex:
+            print(ex , offset)
+            break
+        count+=1
+    
+    except error as e:
+        break
+        print(e)
+        

@@ -1,0 +1,15 @@
+let
+	Pagination = List.Skip(List.Generate( () => [Last_Key = "init", Counter=0],
+		each [Last_Key] <> null,
+		each [Last_Key = try if [Counter]<1 then "" else [Quelle][Value][offset] otherwise null,
+		Quelle= try if [Counter]<1 then
+			Json.Document(Web.Contents("https://api.airtable.com/v0/[put base id here]/[put table number here]?api_key=[put api key here]&view=[put view name here]"))
+		else
+		Json.Document(Web.Contents("https://api.airtable.com/v0/[put base id here]/[put table number here]?api_key=[put api key here]&view=[put view name here]&offset="&Last_Key)),
+		Counter = [Counter]+1
+		],
+		each [Quelle]
+	),1),
+	#"Convert Table" = Table.FromList(Pagination, Splitter.SplitByNothing(), null, null, ExtraValues.Error)
+in
+	#"Convert Table"

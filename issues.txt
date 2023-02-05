@@ -1,0 +1,4 @@
+Issues
+
+a.) In mostly GA Tables have users 0 in some cases have different numbers
+b. AOV val in GA is same

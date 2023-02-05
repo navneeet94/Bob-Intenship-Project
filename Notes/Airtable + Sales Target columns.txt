@@ -1,0 +1,103 @@
+Order Number
+
+Products.1 | Products.2 | Products.3 | Products.4 | Products.5 | Products.6 | Products.7 | Products.8 | Products.9 | Products.10 | Products.11 | Products.12 | Products.13 | Products.14 | Products.15 | Products.16 | Products.17 | Products.18 | Products.19 | Products.20 | Products.21 | Products.22
+
+
+Tracking Code
+
+Status
+
+Customer Name | Customer Name.2 | Customer Name.3
+
+Invoice Number.1 | Invoice Number.2
+
+PO Number.1 | PO Number.2 | PO Number.3 | PO Number.4 | PO Number.5 | PO Number.6 | PO Number.7 | PO Number.8 | PO Number.9 | PO Number.10 | PO Number.11 | PO Number.12 | PO Number.13 | PO Number.14 | PO Number.15
+
+Other Comments
+
+Source
+
+Shipping Company
+
+Sales Order.1 | Sales Order.2 | Sales Order.3
+
+Division
+
+PO Amount
+
+Total Cost
+
+Process Date & Time
+
+Order Date & Time.1 | Order Date & Time.2 | Order Date & Time.3
+
+Processing Time (Hours)
+
+Actual Order Amount.1 | Actual Order Amount.2 | Actual Order Amount.3
+
+Shipping Name.1 | Shipping Name.2 | Shipping Name.3
+
+Supplier Name
+
+Customer Email
+
+Process Date
+
+Order Date.1 | Order Date.2 | Order Date.3 
+
+Brand.1 | Brand.2 | Brand.3 | Brand.4 | Brand.5 | Brand.6 | Brand.7 | Brand.8 | Brand.9 | Brand.10 | Brand.11 | Brand.12 | Brand.13 | Brand.14 | Brand.15 | Brand.16 | Brand.17 | Brand.18 | Brand.19 | Brand.20 | Brand.21
+
+Payment Status (Inv.).1 | Payment Status (Inv.).2
+
+Invoice Amount
+
+Tax Amount (Inv.)
+
+Gross Profit
+
+Shipping paid.1 | Shipping paid.2 | Shipping paid.3
+
+GP Without Shipping
+
+Brand Name.1 | Brand Name.2 | Brand Name.3 | Brand Name.4 | Brand Name.5 | Brand Name.6 | Brand Name.7 | Brand Name.8 | Brand Name.9 | Brand Name.10 | Brand Name.11 | Brand Name.12 | Brand Name.13 | Brand Name.14 | Brand Name.15 | Brand Name.16 | Brand Name.17 | Brand Name.18 | Brand Name.19 | Brand Name.20
+
+
+Description (from Products).1 | Description (from Products).2 | Description (from Products).3 | Description (from Products).3 | Description (from Products).4 | Description (from Products).5 | Description (from Products).6 | Description (from Products).7 | Description (from Products).8 | Description (from Products).9 | Description (from Products).10 | Description (from Products).11 | Description (from Products).12 | Description (from Products).13 | Description (from Products).14 | Description (from Products).15 | Description (from Products).16 | Description (from Products).17 | Description (from Products).18 | Description (from Products).19 | Description (from Products).20 | Description (from Products).21 | Description (from Products).22
+
+Category Name.1 | Category Name.2 | Category Name.3 | Category Name.4 | Category Name.5 | Category Name.6 | Category Name.7 | Category Name.8 | Category Name.9
+
+Sales Person
+
+Brand Name 1.1
+
+Brand Name 2.1 | Brand Name 2.2 | Brand Name 2.3 | Brand Name 2.4 | Brand Name 2.5 | Brand Name 2.6 | Brand Name 2.7 | Brand Name 2.8 | Brand Name 2.9 | Brand Name 2.10 | Brand Name 2.11 | Brand Name 2.12 | Brand Name 2.13 | Brand Name 2.14 | Brand Name 2.15 | Brand Name 2.16 | Brand Name 2.17 | Brand Name 2.18 | Brand Name 2.19 | Brand Name 2.20 | Brand Name 2.21
+
+Payment Status
+
+RMA Number.1 | RMA Number.2
+
+RMA Adjustment.1
+
+Alternate part #.1
+
+Alternate Part#.2
+
+Alternate Part (Y/N)
+
+Sales Orders
+
+Support Person
+
+Shipping Cost
+
+Shipping Status
+
+Getting Year
+
+Getting Quarter
+
+Getting Month
+
+Getting Day
+
+Target Amount

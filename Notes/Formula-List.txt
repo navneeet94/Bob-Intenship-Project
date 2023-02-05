@@ -1,0 +1,1 @@
+Avg. Rev Per Session = Total Rev / Total Session
